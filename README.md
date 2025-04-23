@@ -6,7 +6,7 @@
 I am a self taught developer from Norway. I make stuff.
 
 - 🔭 I’m currently working on: <br />
-[discordmedia.me](https://discordmedia.me/)<br />
+[A solver for NRK's "Former"](https://github.com/cupzyy/former-solver)<br />
 - 📫 How to reach me: <br />
 Discord: `cupzyy`
 
